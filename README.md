@@ -13,3 +13,5 @@ Get your .RData files in one folder with the script.
 * install.packages("sp")
 * install.packages("plyr")
 * script("script.R")
+
+Credits to collected stack-overflaw articles 🥺
