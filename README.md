@@ -3,7 +3,7 @@ My friend needed this and it took far more effort than anticipated to do it. Her
 
 ### Known problems:
 * Windows: trouble installing plyr library
-* Linux (Arch): same, but I was able to fix it by sudo pacmaning tcl tk first
+* Linux (Arch): same, but I was able to fix it by sudo pacmaning `tcl tk`
 
 
 Get your .RData files in one folder with the script.
